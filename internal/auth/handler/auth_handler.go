@@ -1,8 +1,8 @@
 package handler
 
 import (
-	"SiamOutlet/internal/auth/domain"
-	"SiamOutlet/internal/auth/usecase"
+	"Go-Template/internal/auth/domain"
+	"Go-Template/internal/auth/usecase"
 
 	"github.com/gofiber/fiber/v2"
 )

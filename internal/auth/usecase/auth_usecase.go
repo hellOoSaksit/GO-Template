@@ -1,6 +1,6 @@
 package usecase
 
-import "SiamOutlet/internal/auth/domain"
+import "Go-Template/internal/auth/domain"
 
 type AuthUsecase struct {
 	repo domain.AuthRepository

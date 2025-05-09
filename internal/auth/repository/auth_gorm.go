@@ -1,7 +1,7 @@
 package repository
 
 import (
-	"SiamOutlet/internal/auth/domain"
+	"Go-Template/internal/auth/domain"
 	"os"
 	"time"
 

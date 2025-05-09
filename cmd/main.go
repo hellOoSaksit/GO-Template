@@ -1,10 +1,10 @@
 package main
 
 import (
-	"SiamOutlet/internal/auth/domain"
-	"SiamOutlet/internal/auth/handler"
-	"SiamOutlet/internal/auth/repository"
-	"SiamOutlet/internal/auth/usecase"
+	"Go-Template/internal/auth/domain"
+	"Go-Template/internal/auth/handler"
+	"Go-Template/internal/auth/repository"
+	"Go-Template/internal/auth/usecase"
 	"fmt"
 	"log"
 	"os"
